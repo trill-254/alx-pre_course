@@ -1,1 +1,1 @@
-My first readme
+doing hard things day by day
